@@ -4,6 +4,10 @@ Este projeto é uma aplicação desenvolvida em Go para buscar informações cli
 
 ---
 
+## **Link Acesso Cloud Run**
+
+https://deploy-com-clound-go-453723015584.us-central1.run.app/weather?cep=20081000
+
 ## **Funcionalidades**
 
 - Recebe um **CEP** válido (8 dígitos) e identifica a cidade correspondente.
